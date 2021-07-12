@@ -1,3 +1,4 @@
+# Archived: I don't do Discord bots anymore 
 # Finder Development Framework
 Finder Development Framework, or FDF, is a simple Discord.JS template.  
 If you're looking for the Finder bot, [click here.](https://discord.com/oauth2/authorize?client_id=757791742337744906&scope=bot&permissions=2146958847)  
